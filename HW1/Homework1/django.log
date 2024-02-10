@@ -1,0 +1,25 @@
+INFO 2024-02-08 22:52:30,213 Watching for file changes with StatReloader
+INFO 2024-02-08 22:52:40,974 "GET / HTTP/1.1" 200 10629
+INFO 2024-02-08 22:52:47,569 "GET / HTTP/1.1" 200 10629
+INFO 2024-02-08 22:54:40,309 C:\Обучение Разработчик\Django_HW\HW1\Homework1\Homework1\urls.py changed, reloading.
+INFO 2024-02-08 22:54:40,678 Watching for file changes with StatReloader
+INFO 2024-02-08 22:54:42,097 "GET / HTTP/1.1" 200 40
+INFO 2024-02-08 22:56:00,396 C:\Обучение Разработчик\Django_HW\HW1\Homework1\hwapp\views.py changed, reloading.
+INFO 2024-02-08 22:56:00,790 Watching for file changes with StatReloader
+INFO 2024-02-08 22:58:36,560 C:\Обучение Разработчик\Django_HW\HW1\Homework1\hwapp\views.py changed, reloading.
+INFO 2024-02-08 22:58:36,950 Watching for file changes with StatReloader
+INFO 2024-02-08 22:58:55,747 C:\Обучение Разработчик\Django_HW\HW1\Homework1\hwapp\views.py changed, reloading.
+INFO 2024-02-08 22:58:56,123 Watching for file changes with StatReloader
+INFO 2024-02-08 22:59:18,034 C:\Обучение Разработчик\Django_HW\HW1\Homework1\hwapp\views.py changed, reloading.
+INFO 2024-02-08 22:59:18,411 Watching for file changes with StatReloader
+INFO 2024-02-08 23:00:09,094 C:\Обучение Разработчик\Django_HW\HW1\Homework1\hwapp\views.py changed, reloading.
+INFO 2024-02-08 23:00:09,488 Watching for file changes with StatReloader
+INFO 2024-02-08 23:03:12,950 C:\Обучение Разработчик\Django_HW\HW1\Homework1\hwapp\views.py changed, reloading.
+INFO 2024-02-08 23:03:13,336 Watching for file changes with StatReloader
+INFO 2024-02-08 23:11:28,469 C:\Обучение Разработчик\Django_HW\HW1\Homework1\hwapp\views.py changed, reloading.
+INFO 2024-02-08 23:11:28,838 Watching for file changes with StatReloader
+INFO 2024-02-08 23:11:40,888 "GET /about/ HTTP/1.1" 200 820
+INFO 2024-02-08 23:13:56,382 C:\Обучение Разработчик\Django_HW\HW1\Homework1\hwapp\views.py changed, reloading.
+INFO 2024-02-08 23:13:56,750 Watching for file changes with StatReloader
+INFO 2024-02-08 23:13:57,790 "GET /about/ HTTP/1.1" 200 886
+INFO 2024-02-08 23:14:07,745 "GET /index/ HTTP/1.1" 200 820
